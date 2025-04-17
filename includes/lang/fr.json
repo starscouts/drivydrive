@@ -1,0 +1,84 @@
+{
+  "separator": ",",
+  "title": "Progression de la conduite",
+  "km": "parcourus",
+  "left": "restants",
+  "eta": "Date de fin estimée :",
+  "in": "dans",
+  "timing": [
+    "De",
+    "à",
+    "minutes en mouvement"
+  ],
+  "days": [
+    "lundi",
+    "mardi",
+    "mercredi",
+    "jeudi",
+    "vendredi",
+    "samedi",
+    "dimanche"
+  ],
+  "months": [
+    "janvier",
+    "février",
+    "mars",
+    "avril",
+    "mai",
+    "juin",
+    "juillet",
+    "août",
+    "septembre",
+    "octobre",
+    "novembre",
+    "décembre"
+  ],
+  "time": [
+    [ "seconde", "s" ],
+    [ "minute", "s" ],
+    [ "heure", "s" ],
+    [ "jour", "s" ],
+    [ "semaine", "s" ],
+    [ "mois", "" ]
+  ],
+  "target": {
+    "intro": "Destination",
+    "none": "Destination non renseignée pour ce trajet"
+  },
+  "types": {
+    "title": "Types de routes",
+    "city": "Ville",
+    "motorway": "Voie rapide",
+    "highway": "Autoroute",
+    "road": "Route"
+  },
+  "unknown": "Inconnu",
+  "traffic": {
+    "title": "Conditions de circulation",
+    "low": "Peu de circulation",
+    "sunny": "Ensoleillé",
+    "rain": "Légèrement pluvieux",
+    "shower": "Pluvieux",
+    "snow": "Neige",
+    "mist": "Brouillard ou brume",
+    "crowded": "Circulation dense",
+    "medium": "Circulation moyenne"
+  },
+  "comments": {
+    "intro": "Commentaires et remarques",
+    "none": "Commentaires non renseignés pour ce trajet"
+  },
+  "speed": {
+    "intro": "Variations de vitesse",
+    "average": "Vitesse moyenne :",
+    "none": "Informations sur la vitesse non renseignées pour ce trajet"
+  },
+  "altitude": {
+    "intro": "Variations d'altitude",
+    "average": "Altitude moyenne :",
+    "none": "Informations sur l'altitude non renseignées pour ce trajet",
+    "upwards": "Pente ascendante",
+    "downwards": "Pente descendante"
+  },
+  "disclaimer": "Les informations de cette page sont fournies à titre indicatif uniquement et peuvent ne pas correspondre au contenu réel du livret de conduite. Dans tous les cas, le contenu du livret de conduite prévaut sur le contenu de ce site et est la seule preuve valable d'un trajet."
+}

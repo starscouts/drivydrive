@@ -1,0 +1,84 @@
+{
+  "separator": ".",
+  "title": "Driving training progress",
+  "km": "completed",
+  "left": "remaining",
+  "eta": "Estimated completion date:",
+  "in": "in",
+  "timing": [
+    "From",
+    "to",
+    "minutes in movement"
+  ],
+  "days": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "Sunday"
+  ],
+  "months": [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December"
+  ],
+  "time": [
+    [ "second", "s" ],
+    [ "minute", "s" ],
+    [ "hour", "s" ],
+    [ "day", "s" ],
+    [ "week", "s" ],
+    [ "month", "s" ]
+  ],
+  "target": {
+    "intro": "Target",
+    "none": "No target entered for this trip"
+  },
+  "types": {
+    "title": "Road types",
+    "city": "Town",
+    "motorway": "Motorway",
+    "highway": "Highway",
+    "road": "Countryside"
+  },
+  "unknown": "Unknown",
+  "traffic": {
+    "title": "Traffic conditions",
+    "low": "Low traffic",
+    "sunny": "Sunny",
+    "rain": "Wet",
+    "shower": "Rainy",
+    "snow": "Snowy",
+    "mist": "Misty",
+    "crowded": "Dense traffic",
+    "medium": "Medium traffic"
+  },
+  "comments": {
+    "intro": "Comments and remarks",
+    "none": "No comments entered for this trip"
+  },
+  "speed": {
+    "intro": "Speed variations",
+    "average": "Average speed:",
+    "none": "Speed information not entered for this trip"
+  },
+  "altitude": {
+    "intro": "Altitude variations",
+    "average": "Average altitude:",
+    "none": "Altitude information not entered for this trip",
+    "upwards": "Uphill",
+    "downwards": "Downhill"
+  },
+  "disclaimer": "The information from this page is provided for educational purposes only and may not correspond to the real content of the driving book. In all cases, the contents of the driving book take precedence over the content of this site and is the only valid proof of a trip."
+}
